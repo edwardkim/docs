@@ -10,4 +10,5 @@ https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 이걸 운영체제에서 사용하는 ssh agent 에 추가해주면 됩니다.
 osx의 경우라면, ''' $ ssh-add ~/.ssh/id_rsa ''''
 로 하면 됩니다.
-https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/ 
+ - [ssh키 등록](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+ - [인증서커맨드](https://www.sslshopper.com/article-most-common-openssl-commands.html)
